@@ -1,0 +1,21 @@
+{
+  "name": "chineseworksheet",
+  "version": "1.0.0",
+  "description": "Calculate Tian Zi Ge grids, decompose Hanzi strokes, grade HSK 3.0 words & convert Pinyin tones.",
+  "homepage": "https://chineseworksheet.com",
+  "repository": "https://github.com/AbigailDavised/chineseworksheet-mcp",
+  "license": "MIT",
+  "author": {
+    "name": "Abigail Davised",
+    "email": "admin@chineseworksheet.com",
+    "url": "https://chineseworksheet.com"
+  },
+  "keywords": [
+    "chinese-worksheets",
+    "hanzi-strokes",
+    "hsk-analyzer",
+    "pinyin-converter",
+    "tian-zi-ge",
+    "mcp"
+  ]
+}

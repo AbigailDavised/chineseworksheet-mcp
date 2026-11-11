@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "chineseworksheet": {
+      "type": "http",
+      "url": "https://chineseworksheet.com/api/mcp"
+    }
+  }
+}
