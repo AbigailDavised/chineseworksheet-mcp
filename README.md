@@ -6,6 +6,8 @@
 
 Official **Model Context Protocol (MCP)** remote `streamable-http` server and **Open Agent Skill** for [**ChineseWorkSheet (chineseworksheet.com)**](https://chineseworksheet.com).
 
+[![ChineseWorkSheet Cover](./assets/cover.png)](https://chineseworksheet.com)
+
 ---
 
 ## 🔧 Available MCP Tools
