@@ -1,6 +1,7 @@
 # ChineseWorkSheet — Vector Hanzi Grid Geometry, Stroke Order & HSK Analyzer (`com.chineseworksheet/mcp`)
 
 [![Official MCP Registry](https://img.shields.io/badge/MCP_Registry-com.chineseworksheet%2Fmcp-emerald)](https://registry.modelcontextprotocol.io/v0.1/servers/com.chineseworksheet%2Fmcp/versions/latest)
+[![MCPRush Listing](https://mcprush.com/badge/chineseworksheet-vector-hanzi-grid-geometry-s-mcp/card.svg)](https://mcprush.com/to/chineseworksheet-vector-hanzi-grid-geometry-s-mcp?ref=badge)
 [![Website](https://img.shields.io/badge/Website-chineseworksheet.com-blue)](https://chineseworksheet.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
